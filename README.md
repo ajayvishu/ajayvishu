@@ -65,7 +65,7 @@ You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Expe
 <br/>
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/AyushiGandhi/count.svg" />
+  <img src="https://profile-counter.glitch.me/ajayvishu/count.svg" />
 </p>
 
 ###
