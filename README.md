@@ -50,6 +50,22 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3>🌱 Tech I have experience with: </h3>
+<p>
+  <img alt="dynamodb" src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>
+
+
+<h3>📫 How to reach me:</h3>
+<p> You can reach out to me at <a href="https://www.linkedin.com/in/ayushi-gandhi-77a9b31b3/" >LinkedIn</a> 
+<br>
+You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
+
+<br/>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/AyushiGandhi/count.svg" />
+</p>
 
 ###
