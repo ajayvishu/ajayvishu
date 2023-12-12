@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Ajay from Ahamadabad,Gujarat<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Angular Or React <br>- ⚡ In my free time I Write Article</p>
+<p align="left">I'm Ajay from Ahamadabad,Gujarat<br><br>- 🔭 I’m working as Software Engineer<br><br>✨ Creating bugs since 2019<br>- 📚 I'm currently learning Angular Or React <br>- ⚡ In my free time I Write Article</p>
 
 ###
 
