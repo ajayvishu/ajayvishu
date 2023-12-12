@@ -58,7 +58,7 @@
 
 
 <h3>📫 How to reach me:</h3>
-<p> You can reach out to me at <a href="https://www.linkedin.com/in/ayushi-gandhi-77a9b31b3/" >LinkedIn</a> 
+<p> You can reach out to me at <a href="https://www.linkedin.com/in/ajay-vishwakarma-0507" >LinkedIn</a> 
 <br>
 You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
 
